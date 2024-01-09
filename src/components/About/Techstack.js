@@ -11,6 +11,14 @@ import {
   DiCss3,
   DiHtml5,
   DiLinux,
+  DiRasberryPi,
+  DiPhotoshop,
+  DiTerminal,
+  DiVim,
+  DiUbuntu,
+  DiDebian,
+  DiDocker,
+  DiWindows,
 } from "react-icons/di";
 
 
@@ -27,25 +35,52 @@ function Techstack() {
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact/>
+        <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit/>
+        <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiHtml5/>
+        <DiHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiLinux/>
+        <DiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiCss3/>
+        <DiCss3 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRasberryPi />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPhotoshop />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <DiTerminal />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiVim />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiUbuntu />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDebian />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiWindows />
       </Col>
     </Row>
   );

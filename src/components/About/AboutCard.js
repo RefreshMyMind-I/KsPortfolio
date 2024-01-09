@@ -24,7 +24,16 @@ function AboutCard() {
               <ImPointRight /> Astrophotography 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Fpv Racing
+              <ImPointRight /> Adventures
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Reading
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Music
             </li>
           </ul>
         </blockquote>

@@ -9,6 +9,15 @@ import {
   SiArduino,
   SiBlender,
   SiWireshark,
+  SiStmicroelectronics,
+  SiSpotify,
+  SiAltiumdesigner,
+  SiDiscord,
+  SiTorbrowser,
+  SiAnaconda,
+  SiSiemens,
+  SiKalilinux,
+  SiApple,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -38,6 +47,34 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiWireshark/>
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiStmicroelectronics/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSpotify/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAltiumdesigner/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDiscord/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTorbrowser/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAnaconda/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSiemens/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKalilinux/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApple/>
+      </Col>
+
     </Row>
   );
 }
