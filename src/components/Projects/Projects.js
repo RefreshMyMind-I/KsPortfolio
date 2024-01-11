@@ -121,7 +121,7 @@ function Projects() {
               isBlog={false}
               title="Weather Station With ESP32-S3"
               description="This project collect various Environmental parameters and send it to cloud, It has it's coustom pcb design which is easy to implement."
-              ghLink="https://github.com/RefreshMyMind-I/"
+              ghLink="https://github.com/RefreshMyMind-I/ESP32_S3-Weather-Station"
             />
           </Col>
         </Row>
