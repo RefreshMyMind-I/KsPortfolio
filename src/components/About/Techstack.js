@@ -19,6 +19,8 @@ import {
   DiDebian,
   DiDocker,
   DiWindows,
+  DiGithub,
+
 } from "react-icons/di";
 
 
@@ -82,6 +84,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiWindows />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithub />
+      </Col>
+
     </Row>
   );
 }
