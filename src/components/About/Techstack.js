@@ -20,7 +20,6 @@ import {
   DiDocker,
   DiWindows,
   DiGithub,
-
 } from "react-icons/di";
 
 
