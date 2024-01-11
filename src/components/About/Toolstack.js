@@ -18,6 +18,9 @@ import {
   SiSiemens,
   SiKalilinux,
   SiApple,
+  SiArm,
+  SiGnome,
+  SiNginx,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -74,7 +77,15 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiApple/>
       </Col>
-
+      <Col xs={4} md={2} className="tech-icons">
+        <SiArm/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGnome/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNginx/>
+      </Col>
     </Row>
   );
 }
