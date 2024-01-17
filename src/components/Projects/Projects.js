@@ -80,7 +80,7 @@ function Projects() {
               imgPath={zmpt101}
               isBlog={false}
               title="Zmpt101_Library"
-              description="he ZMPT101 library refers to a software library or code package designed to interface with the ZMPT101 voltage sensor module. The ZMPT101 is an AC voltage sensor module commonly used for measuring alternating current (AC) voltages in electronic projects."
+              description="The ZMPT101 library refers to a software library or code package designed to interface with the ZMPT101 voltage sensor module. The ZMPT101 is an AC voltage sensor module commonly used for measuring alternating current (AC) voltages in electronic projects.."
               ghLink="https://github.com/RefreshMyMind-I/ZMPT101B"
             />
           </Col>
@@ -90,7 +90,7 @@ function Projects() {
               imgPath={cat9ecu}
               isBlog={false}
               title="CAT9 ECU Decoder"
-              description="This project Decoder data from c9 engine Ecu and dislay it on HMI."
+              description="This project decodes data from the C9 engine ecu and displays it on the HMI."
               ghLink="https://github.com/RefreshMyMind-I/"
             />
           </Col>
@@ -110,7 +110,7 @@ function Projects() {
               imgPath={geigercounter}
               isBlog={false}
               title="Geiger Counter"
-              description="Insted of using Mullers tube this project uses PIN diode to detect radiation."
+              description="Instead of using Mullers tubes, this project uses a PIN diode to detect radiation.."
               ghLink="https://github.com/RefreshMyMind-I/"
             />
           </Col>
@@ -120,7 +120,7 @@ function Projects() {
               imgPath={weatherstatino}
               isBlog={false}
               title="Weather Station With ESP32-S3"
-              description="This project collect various Environmental parameters and send it to cloud, It has it's coustom pcb design which is easy to implement."
+              description="This project collects various environmental parameters and sends them to the cloud. It's coustom PCB design, which is easy to implement."
               ghLink="https://github.com/RefreshMyMind-I/ESP32_S3-Weather-Station"
             />
           </Col>
